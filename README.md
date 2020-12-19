@@ -7,11 +7,10 @@ I'm a Software Engineering student interested in tech, business and content crea
 * Getting my Bsc degree in Software Engineering
 
 ## 🌐 Where to find me:
-* [My Personal Website](https://charafmrah.com)
 * [Instagram](https://instagram.com/charafmrah)
 * [Twitter](https://twitter.com/charafmrah)
 * [LinkedIn](https://linkedin.com/in/charafmrah)
-* [YouTube](https://youtube.com/charaf)
+
 <!--
 **charafmrah/charafmrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
