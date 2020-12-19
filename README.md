@@ -1,6 +1,6 @@
 # Hi there! My name is Charaf Mrah. 👋 
 
-I'm a Software Engineering student interested in tech, business and content creation. I'm the founder, web dev, author, marketer, and designer at the college route. Right now I'm interested in learning more about A.I, machine learning and deep learning to see if what I can provide to the world using these tools. I'm also interested in everything related to creativity: photo & video editing, blogging, logo design, simple yet effective code...etc.
+I'm a Software Engineering student interested in tech, business and content creation. I'm the founder, web dev, author, marketer, and designer at the college route. Right now I'm interested in learning more about A.I, machine learning and deep learning. I'm also interested in everything related to creativity: photo & video editing, blogging, logo design...etc.
 
 ## 💻 What I'm working on right now:
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
