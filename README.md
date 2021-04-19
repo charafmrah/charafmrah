@@ -1,4 +1,4 @@
-# Hi there! My name is Charaf Mrah. 👋 
+# Hi! This is Charaf Mrah. 👋 
 
 I'm a Software Engineering student interested in tech, business and content creation. I'm the founder, web dev, author, marketer, and designer at the college route. Right now I'm interested in learning more about A.I, machine learning and deep learning. I'm also interested in everything related to creativity: photo & video editing, blogging, logo design...etc.
 
