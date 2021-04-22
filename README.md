@@ -4,9 +4,11 @@ I'm a Software Engineering student interested in tech, business and content crea
 
 ## 💻 What I'm working on right now:
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
+* Building websites at [Web Pangolin] (https://webpangolin.com)
 * Getting my Bsc degree in Software Engineering
 
 ## 🌐 Where to find me:
+* [Personal Website](https://charafmrah.com)
 * [Instagram](https://instagram.com/charafmrah)
 * [Twitter](https://twitter.com/charafmrah)
 * [LinkedIn](https://linkedin.com/in/charafmrah)
