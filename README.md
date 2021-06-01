@@ -4,7 +4,7 @@ I'm a Software Engineering student interested in tech, business and content crea
 
 ## 💻 I'm working on:
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
-* Building websites & digital marketing at [Web Pangolin](https://webpangolin.com)
+* Building websites for students & educators at [Web Pangolin](https://webpangolin.com)
 * Building & managing [Web Konnect](https://webkonnect.asia)
 * Getting a bachelor of engineering in Software Engineering
 
