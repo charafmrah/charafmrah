@@ -10,9 +10,10 @@ I'm a Software Engineering student interested in tech, business and content crea
 
 ## 🌐 Where to find me:
 * [Personal Website](https://charafmrah.com)
-* [Instagram](https://instagram.com/charafmrah)
+* [YouTube](https://www.youtube.com/charaf)
 * [Twitter](https://twitter.com/charafmrah)
 * [LinkedIn](https://linkedin.com/in/charafmrah)
+* [Instagram](https://instagram.com/charafmrah)
 
 <!--
 **charafmrah/charafmrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
