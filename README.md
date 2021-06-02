@@ -6,7 +6,7 @@ I'm a Software Engineering student interested in tech, business and content crea
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
 * Building websites for students & educators at [Web Pangolin](https://webpangolin.com)
 * Building & managing [Web Konnect](https://webkonnect.asia)
-* Getting a bachelor of engineering in Software Engineering
+* Getting a Software Engineering degree
 
 ## 🌐 Where to find me:
 * [Personal Website](https://charafmrah.com)
