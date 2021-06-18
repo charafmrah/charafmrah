@@ -15,6 +15,8 @@ I'm a Software Engineering student interested in tech, business and content crea
 * [LinkedIn](https://linkedin.com/in/charafmrah)
 * [Instagram](https://instagram.com/charafmrah)
 
+[![Charaf's github stats](https://github-readme-stats.vercel.app/api?username=charafmrah)](https://github.com/charafmrah/github-readme-stats)
+
 <!--
 **charafmrah/charafmrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
