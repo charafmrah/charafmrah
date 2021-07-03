@@ -17,4 +17,4 @@ I'm a Software Engineering student interested in tech, business and content crea
 
 ## 📊 Stats:
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charafmrah&theme=gotham)](https://github.com/charafmrah/github-readme-stats)
-[![Charaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=charafmrah&show_icons=true&theme=gotham)](https://github.com/charafmrah/github-readme-stats)
+[![Charaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=charafmrah&hide='makefile'&show_icons=true&theme=gotham)](https://github.com/charafmrah/github-readme-stats)
