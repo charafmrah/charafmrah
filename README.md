@@ -1,6 +1,6 @@
 # Hi! This is Charaf Mrah. 👋 
 
-I'm a Software Engineering student interested in tech, business and content creation. I'm the web dev, creator, marketer, and designer at the college route. I'm working on improving my web developement & design skills by learning & applying different frameworks. I'm interested in everything related to creativity: video content creation, photo & video editing, blogging, graphic design...etc.
+I'm a Software Engineering student interested in tech, business and content creation. I'm the web dev/designer, creator, marketer at the college route. I'm working on improving my web developement & design skills by learning & applying different frameworks. I'm interested in everything related to creativity: video content creation, photo & video editing, blogging, graphic design...etc.
 
 ## 💻 I'm working on:
 * Getting a Software Engineering degree
