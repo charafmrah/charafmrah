@@ -18,7 +18,7 @@ I'm a Software Engineering student interested in tech, business and content crea
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![WordPress](https://img.shields.io/badge/-Wordpress-blue?style=flat-square&logo=wordpress)
