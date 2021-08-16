@@ -14,6 +14,7 @@ For more about me: [Personal Website](https://charafmrah.com)
 * Getting my Software Engineering bachelors degree
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
 * Building websites at [Web Pangolin](https://webpangolin.com)
+* Learning Android development using Kotlin
 
 ## 🛠 Skills:
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
