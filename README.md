@@ -1,11 +1,5 @@
 # Hi! This is Charaf Mrah. 👋 
 
-[![Visits Badge](https://badges.pufler.dev/visits/charafmrah/charafmrah)](https:charafmrah.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/charafmrah)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/charafmrah/)
-[![YouTube Badge](https://img.shields.io/badge/Youtube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/charaf)
-
-
 I'm a Software Engineering student interested in tech, business and content creation. I'm the web dev/designer, creator, marketer at the college route. I'm working on improving my web developement & design skills by learning & applying different frameworks. I'm interested in everything related to creativity: video content creation, photo & video editing, blogging, graphic design...etc.
 
 ## 💻 What I'm working on:
@@ -15,10 +9,10 @@ I'm a Software Engineering student interested in tech, business and content crea
 
 ## 🌐 Where to find me:
 * [Personal Website](https://charafmrah.com)
-* [YouTube](https://www.youtube.com/charaf)
-* [Twitter](https://twitter.com/charafmrah)
-* [LinkedIn](https://linkedin.com/in/charafmrah)
-* [Instagram](https://instagram.com/charafmrah)
+[![Visits Badge](https://badges.pufler.dev/visits/charafmrah/charafmrah)](https:charafmrah.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/charafmrah)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/charafmrah/)
+[![YouTube Badge](https://img.shields.io/badge/Youtube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/charaf)
 
 ## 🛠 Skills:
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
