@@ -6,7 +6,7 @@
 [![YouTube Badge](https://img.shields.io/badge/Youtube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/charaf)
 
 
-I'm a Software Engineering student interested in tech, business and content creation. I'm the web dev/designer, creator, marketer at the college route. I'm working on improving my web developement & design skills by learning & applying different frameworks. I'm interested in everything related to creativity: video content creation, photo & video editing, blogging, graphic design...etc.
+I'm a Software Engineering student interested in tech, business and content creation. I'm the web dev/designer, creator, and marketer at the college route. I'm working on improving my web developement & design skills by learning & applying different frameworks. I'm interested in everything related to creativity: video content creation, photo & video editing, blogging, graphic design...etc.
 
 For more about me: [Personal Website](https://charafmrah.com)
 
