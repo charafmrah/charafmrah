@@ -13,7 +13,7 @@ I'm a Software Engineering student interested in tech, business and content crea
 
 For more about me: [Personal Website](https://charafmrah.com)
 
-## 💻 &nbsp;What I'm working on:
+## 💻 What I'm working on:
 * Getting my Software Engineering bachelors degree
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
 * Building websites at [Web Pangolin](https://webpangolin.com)
