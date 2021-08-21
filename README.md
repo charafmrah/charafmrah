@@ -2,7 +2,7 @@
 
 
 <p align="center">
-![Visits Badge](https://badges.pufler.dev/visits/charafmrah/charafmrah)](https:charafmrah.com)
+<a href="https://charafmrah.com"><img src="https://img.shields.io/badge/-charafmrah.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://badges.pufler.dev/visits/charafmrah/charafmrah"><img src="https://img.shields.io/badge/-charafmrah.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://auscode.me"><img src="https://img.shields.io/badge/-auscode.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aus-gomez/"><img src="https://img.shields.io/badge/-Aus%20Gomez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
