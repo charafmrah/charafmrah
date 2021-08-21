@@ -20,7 +20,7 @@ For more about me: [Personal Website](https://charafmrah.com)
 * Learning Android development using Kotlin
 
 ## 🛠 Skills:
-<a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/></a>&nbsp
+<a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/>&nbsp</a>
 <a><img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin"/></a>
 <a><img src="https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java"/></a>
 <a><img src="https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql"/></a>
