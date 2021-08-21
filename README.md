@@ -17,21 +17,23 @@ For more about me: [Personal Website](https://charafmrah.com)
 * Learning Android development using Kotlin
 
 ## 🛠 Skills:
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
-![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?style=flat-square&logo=mysql)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-informational?style=flat-square&logo=dart)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![WordPress](https://img.shields.io/badge/-Wordpress-blue?style=flat-square&logo=wordpress)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin)&nbsp;
+![Java](https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart)&nbsp;
+![WordPress](https://img.shields.io/badge/-Wordpress-05122A?style=flat-square&logo=wordpress)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+
 
 
 
