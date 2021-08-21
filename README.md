@@ -19,22 +19,22 @@ For more about me: [Personal Website](https://charafmrah.com)
 * Building websites at [Web Pangolin](https://webpangolin.com)
 * Learning Android development using Kotlin
 
-## 🛠 Skills:
+## 🛠 My Tech Stack:
 <p align="center">
-<a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/></a>
-<a><img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin"/></a>
-<a><img src="https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java"/></a>
-<a><img src="https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql"/></a>
-<a><img src="https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart"/></a>
-<a><img src="https://img.shields.io/badge/-Wordpress-05122A?style=flat-square&logo=wordpress"/></a>
-<a><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></a>
-<a><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/></a>
-<a><img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter"/></a>
-<a><img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/></a>
-<a><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/></a>
-<a><img src="https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql"/></a>
-<a><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/></a>
-<a><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/></a>
+  <a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/></a>
+  <a><img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin"/></a>
+  <a><img src="https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java"/></a>
+  <a><img src="https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql"/></a>
+  <a><img src="https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart"/></a>
+  <a><img src="https://img.shields.io/badge/-Wordpress-05122A?style=flat-square&logo=wordpress"/></a>
+  <a><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></a>
+  <a><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/></a>
+  <a><img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter"/></a>
+  <a><img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/></a>
+  <a><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/></a>
+  <a><img src="https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql"/></a>
+  <a><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/></a>
+  <a><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/></a>
 </p>
 
 ## 📊 Stats:
