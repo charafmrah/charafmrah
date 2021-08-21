@@ -20,7 +20,8 @@ For more about me: [Personal Website](https://charafmrah.com)
 * Learning Android development using Kotlin
 
 ## 🛠 Skills:
-<a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/>&nbsp</a>
+<p align="center">
+<a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/></a>
 <a><img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin"/></a>
 <a><img src="https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java"/></a>
 <a><img src="https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql"/></a>
@@ -34,6 +35,7 @@ For more about me: [Personal Website](https://charafmrah.com)
 <a><img src="https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql"/></a>
 <a><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/></a>
 <a><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/></a>
+</p>
 
 ## 📊 Stats:
 <p align="left">
