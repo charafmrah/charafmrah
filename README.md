@@ -1,8 +1,8 @@
 # Hi! This is Charaf Mrah. 👋 
 
 <p align="center">
-<img alt="Coding" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47wsktfy624vdb1d02ns6z3scvhhpduhjimyrbox3g&rid=giphy.gif&ct=g" width='700' align="center"/>
-  </p>
+  <img alt="Coding" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47wsktfy624vdb1d02ns6z3scvhhpduhjimyrbox3g&rid=giphy.gif&ct=g" width='600' align="center"/>
+</p>
 
 <p align="center">
 <a href="https://charafmrah.com"><img src="https://img.shields.io/badge/-charafmrah.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
