@@ -18,7 +18,7 @@ I'm a Software Engineering student interested in tech, business and content crea
 * Getting my Software Engineering bachelors degree
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
 * Building software at [Web Pangolin](https://webpangolin.com)
-* Learning Android development using Kotlin
+* Learning Android development using Kotlin & Java
 
 ## 🛠 My Tech Stack:
 <p align="center">
