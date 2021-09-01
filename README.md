@@ -1,6 +1,6 @@
 # Hi! This is Charaf Mrah. 👋 
 
-<p align="center">
+<p align="left">
   <img alt="Coding" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47wsktfy624vdb1d02ns6z3scvhhpduhjimyrbox3g&rid=giphy.gif&ct=g" width='600' align="center"/>
 </p>
 
@@ -21,7 +21,7 @@ I'm a Software Engineering student interested in tech, business and content crea
 * Learning Android development using Kotlin & Java
 
 ## 🛠 My Tech Stack:
-<p align="center">
+<p align="left">
   <a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/></a>
   <a><img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin"/></a>
   <a><img src="https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java"/></a>
@@ -39,7 +39,7 @@ I'm a Software Engineering student interested in tech, business and content crea
 </p>
 
 ## 📊 Stats:
-<p align="center">
+<p align="left">
 <a href="https://github.com/charafmrah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=charafmrah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charafmrah&layout=compact&langs_count=8&hide=makefile&theme=algolia"/>
