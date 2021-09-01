@@ -1,7 +1,7 @@
 # Hi! This is Charaf Mrah. 👋 
 
 <p align="left">
-  <img alt="Coding" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47wsktfy624vdb1d02ns6z3scvhhpduhjimyrbox3g&rid=giphy.gif&ct=g" width='600' align="center"/>
+  <img alt="Coding" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47wsktfy624vdb1d02ns6z3scvhhpduhjimyrbox3g&rid=giphy.gif&ct=g" width='600' align="left"/>
 </p>
 
 <p align="center">
