@@ -4,7 +4,7 @@
   <img alt="Coding" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47wsktfy624vdb1d02ns6z3scvhhpduhjimyrbox3g&rid=giphy.gif&ct=g" width='600'/>
 
 
-<p align="center">
+<p align="left">
 <a href="https://charafmrah.com"><img src="https://img.shields.io/badge/-charafmrah.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/charafmrah/"><img src="https://img.shields.io/badge/-Charaf%20Mrah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:charaf@charafmrah.com"><img src="https://img.shields.io/badge/-charaf@charafmrah.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
