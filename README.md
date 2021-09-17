@@ -1,8 +1,5 @@
 # Hi! This is Charaf Mrah. 👋 
 
-
-  <img alt="Coding" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47wsktfy624vdb1d02ns6z3scvhhpduhjimyrbox3g&rid=giphy.gif&ct=g" width='600'/>
-
 ![giphy](https://user-images.githubusercontent.com/20629020/133824396-647b60cc-d0d4-47cf-9817-da452d1bfb96.gif)
 
 <p align="left">
