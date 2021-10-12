@@ -13,7 +13,7 @@
 I'm a Software Engineering student interested in tech, business and content creation. I'm the web dev/designer, creator, and marketer at the college route. I'm working on improving my mobile/website developement & design skills by learning & applying different frameworks. I'm interested in everything related to creativity: video content creation, photo & video editing, blogging, graphic design...etc.
 
 ## 💻 What I'm working on:
-* Getting my Software Engineering bachelors degree
+* Getting my Software Engineering degree at BAU
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
 * Building software at [Web Pangolin](https://webpangolin.com)
 * Learning Android development using Kotlin & Java
