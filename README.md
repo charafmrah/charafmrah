@@ -15,7 +15,7 @@ I'm a Software Engineering student interested in tech, business and content crea
 ## 💻 What I'm working on:
 * Getting my Software Engineering degree at BAU
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
-* Creating software at [Web Pangolin](https://webpangolin.com)
+* Building Apps & Websites at [Web Pangolin](https://webpangolin.com)
 * Learning Android development using Kotlin & Java
 
 ## 🛠 My Tech Stack:
