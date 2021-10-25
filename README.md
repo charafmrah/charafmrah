@@ -18,7 +18,7 @@ I'm a Software Engineering student interested in tech, business and content crea
 * Building Apps & Websites at [Web Pangolin](https://webpangolin.com)
 * Learning Android development using Kotlin & Java
 
-## 🛠 My Tech Stack:
+## 🛠 Tech Stack:
 <p align="left">
   <a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/></a>
   <a><img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin"/></a>
