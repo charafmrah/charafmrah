@@ -9,7 +9,7 @@
 <a href="https://instagram.com/charafmrah"><img src="https://img.shields.io/badge/-@charafmrah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-I'm a Software Engineering student interested in tech, business and content creation. I'm the web dev/designer, creator, and marketer at the college route. I'm working on improving my mobile/website developement & design skills by learning & applying different frameworks. I'm interested in everything related to creativity: video content creation, photo & video editing, blogging, graphic design...etc.
+I'm a Software Engineering student interested in tech, business and content creation. Currently I'm building Android apps to improve my Android development skills.
 
 ## 💻 Currently working on:
 * Getting a Software Engineering degree
