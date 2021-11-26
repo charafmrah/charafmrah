@@ -9,7 +9,7 @@
 <a href="https://instagram.com/charafmrah"><img src="https://img.shields.io/badge/-@charafmrah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-I'm a Software Engineering student interested in tech, business and content creation. Currently building Android apps.
+I'm a Software Engineering student interested in tech, business and content creation.
 
 ## 💻 Currently working on:
 * Getting a Software Engineering degree
