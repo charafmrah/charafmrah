@@ -11,7 +11,7 @@
 
 I'm a Software Engineering student interested in tech, business and content creation.
 
-## 💻 Working on:
+## 💻 Currently working on:
 * Getting my Software Engineering degree
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
 * Building Apps & Websites at [Web Pangolin](https://webpangolin.com)
