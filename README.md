@@ -7,7 +7,7 @@
 <a href="https://instagram.com/charafmrah"><img src="https://img.shields.io/badge/-@charafmrah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-I'm a sofware engineer interested in tech, business and content creation.
+I'm a software engineer interested in tech, business and content creation.
 
 ## 💻 Currently Working On:
 * Getting my Software Engineering degree
