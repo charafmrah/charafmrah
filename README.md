@@ -12,8 +12,8 @@ I'm a software engineer interested in tech, business and content creation.
 ## 💻 Currently Working On:
 * Getting my Software Engineering degree
 * Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
-* Building Apps & Websites at [Web Pangolin](https://webpangolin.com)
-* Learning Android development using Kotlin & Java
+* Building Websites at [Web Pangolin](https://webpangolin.com)
+* Building Android apps using Kotlin & Java
 
 ## 🛠 Tech Stack:
 <p align="left">
