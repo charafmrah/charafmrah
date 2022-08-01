@@ -37,6 +37,6 @@ I'm a software engineer interested in tech, business and content creation.
 <p align="left">
 <a href="https://github.com/charafmrah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=charafmrah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charafmrah&layout=compact&langs_count=8&hide=makefile&html&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charafmrah&layout=compact&langs_count=8&hide=makefile&HTML&theme=algolia"/>
 </a>
 </p>
