@@ -7,13 +7,11 @@
 <a href="https://instagram.com/charafmrah"><img src="https://img.shields.io/badge/-@charafmrah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-I'm a software engineer interested in tech, business and content creation.
+I'm a software engineer interested in tech and content creation.
 
 ## 💻 Currently Working On:
 * Getting my Software Engineering degree
-* Creating content & marketing at [thecollegeroute.com](https://thecollegeroute.com)
-* Building Websites at [Web Pangolin](https://webpangolin.com)
-* Building Android apps using Kotlin & Java
+* Building software at [Web Pangolin](https://webpangolin.com)
 
 ## 🛠 Tech Stack:
 <p align="left">
