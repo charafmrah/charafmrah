@@ -15,6 +15,7 @@ I'm a software engineer interested in tech and content creation.
 
 ## 🛠 Tech Stack:
 <p align="left">
+  <a><img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP"/></a>
   <a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/></a>
   <a><img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin"/></a>
   <a><img src="https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java"/></a>
