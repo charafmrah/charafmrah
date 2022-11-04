@@ -17,6 +17,7 @@ I'm a software engineer interested in tech and content creation.
 <p align="left">
   <a><img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP"/></a>
   <a><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/></a>
+  <a><img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React"/></a>
   <a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/></a>
   <a><img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin"/></a>
   <a><img src="https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java"/></a>
