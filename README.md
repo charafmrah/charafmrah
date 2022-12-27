@@ -11,7 +11,7 @@ I'm a software engineer interested in tech and content creation.
 
 ## 💻 Currently Working On:
 * Getting my Software Engineering degree
-* Building tools for creators @ [Web Pangolin](https://webpangolin.com)
+* Building software @ [Web Pangolin](https://webpangolin.com)
 
 ## 🛠 Tech Stack:
 <p align="left">
