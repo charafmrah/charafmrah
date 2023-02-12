@@ -15,16 +15,16 @@ I'm a software engineer interested in tech and content creation.
 
 ## 🛠 Tech Stack:
 <p align="left">
-  <a><img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP"/></a>
   <a><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/></a>
   <a><img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript"/></a>
   <a><img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React"/></a>
   <a><img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js"/></a>
+  <a><img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP"/></a>
+  <a><img src="https://img.shields.io/badge/-Wordpress-05122A?style=flat-square&logo=wordpress"/></a>
   <a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/></a>
   <a><img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin"/></a>
   <a><img src="https://img.shields.io/badge/-java-05122A?style=flat-square&logo=java"/></a>
   <a><img src="https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql"/></a>
-  <a><img src="https://img.shields.io/badge/-Wordpress-05122A?style=flat-square&logo=wordpress"/></a>
   <a><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></a>
   <a><img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter"/></a>
   <a><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/></a>
