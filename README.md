@@ -10,7 +10,7 @@
 I'm a software engineer interested in tech and content creation.
 
 ## 💻 Currently Working On:
-* Building software @ [Web Pangolin](https://webpangolin.com)
+* Building software
 
 ## 🛠 Tech Stack:
 <p align="left">
