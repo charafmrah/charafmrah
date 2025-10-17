@@ -6,9 +6,6 @@
 <a href="mailto:charaf@webpangolin.com"><img src="https://img.shields.io/badge/-charaf@webpangolin.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-I’m a software engineer working on improving the WordPress experience, currently focused on Bricks (a visual site builder).
-
-## 🛠 Tech Stack:
 <p align="left">
   <a><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/></a>
   <a><img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP"/></a>
