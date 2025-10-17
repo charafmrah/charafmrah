@@ -14,7 +14,7 @@ I’m a software engineer working on improving the WordPress experience, current
   <a><img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP"/></a>
   <a><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/></a>
   <a><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/></a>
-  <a><img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue"/></a>
+  <a><img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue.js"/></a>
   <a><img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React"/></a>
   <a><img src="https://img.shields.io/badge/-Wordpress-05122A?style=flat-square&logo=wordpress"/></a>
   <a><img src="https://img.shields.io/badge/-Android-05122A?style=flat-square&logo=android"/></a>
